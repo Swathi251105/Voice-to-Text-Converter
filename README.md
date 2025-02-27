@@ -14,8 +14,8 @@ This is a web-based Voice-to-Text Converter that allows users to convert spoken 
 - **Frontend**: HTML, CSS, JavaScript
 
 ## GitHub Repository
-Project Link: [https://github.com/Swathi251105](https://github.com/Swathi251105)
-You can find the project on GitHub: [Voice-to-Text Converter](https://github.com/Swathi251105/voice-to-text)
+Project Link: https://github.com/Swathi251105/Voice-to-Text-Converter
+
 
 ## Installation
 
